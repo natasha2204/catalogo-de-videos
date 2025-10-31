@@ -1,4 +1,12 @@
 body {
-color:aliceblue;
-background:black;
+color:rgb(255, 0, 179);
+background:rgb(255, 255, 255);
+}
+
+.chamada {
+background-color: aquamarine;
+padding-bottom: 80px;
+padding-top: 80px;
+display:flex;
+justify-content: center;
 }
